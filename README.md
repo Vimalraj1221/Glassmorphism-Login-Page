@@ -18,7 +18,7 @@
 - Twitter - [@Vimalraj1221](https://twitter.com/VimalRaj_1221)
 - Instagram -[@Vimalraj1221](https://www.instagram.com/vimalraj_1221/)
 
-## Supported Browsers
+### Supported Browsers
 
 -Google Chrome
 -Microsoft Edge
